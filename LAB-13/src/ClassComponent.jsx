@@ -4,9 +4,9 @@ class ClassComponent extends Component {
     render() {
         return(
             <>
-                <div>This is a class component.</div>
+                <h1>Helloo</h1>
+                <h2><div>This is a class component.</div></h2>
 
-                <H2>Helloo</H2>
             </>
         
         ) 
